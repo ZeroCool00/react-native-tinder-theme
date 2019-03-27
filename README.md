@@ -27,3 +27,7 @@ original author: https://github.com/ozgurchn/react-native-tinder-clone
 3. change navigation code according to react-native-navigation to [v2].
 4. made some changes to support ihpone x design
 5. Opening modal class instead of screen on each page to look more nice.
+
+## Have any issue or want more feature
+Please create issue or feature request here, i will start work on it.
+And ofcourse Feel free to contribute as you like.
